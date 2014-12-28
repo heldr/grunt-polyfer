@@ -1,6 +1,6 @@
 # grunt-polyfer [![Build Status](https://travis-ci.org/heldr/grunt-polyfer.svg?branch=master)](https://travis-ci.org/heldr/grunt-polyfer)
 
-> Grunt plugin to post process Polymer CSS polyfills with [Polyfer][npm-url].
+> Grunt plugin to post process [Polymer CSS polyfills][polyfills-doc] with [Polyfer][npm-url].
 
 ## Getting Started
 This plugin requires Grunt.
@@ -42,3 +42,4 @@ _0.0.1_ - first release
 MIT © [Helder Santana](https://github.com/heldr)
 
 [npm-url]: https://npmjs.org/package/polyfer
+[polyfills-doc]: https://www.polymer-project.org/docs/polymer/styling.html#directives
