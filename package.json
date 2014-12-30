@@ -29,6 +29,6 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "polyfer": "0.0.1"
+    "polyfer": "^0.1.0"
   }
 }
