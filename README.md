@@ -36,7 +36,8 @@ grunt.initConfig({
 In lieu of a formal styleguide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint and test your code using [Grunt](http://gruntjs.com/).
 
 ## Release History
-_0.0.1_ - first release
+ * _0.1.0_ - Polyfer 0.1.0
+ * _0.0.1_ - first release
 
 ## License
 MIT © [Helder Santana](https://github.com/heldr)
